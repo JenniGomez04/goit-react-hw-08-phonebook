@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.3f8e10ce.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.78f68e4e.js",
+    "static/js/421.8542b4dd.chunk.js": "/goit-react-hw-08-phonebook/static/js/421.8542b4dd.chunk.js",
+    "static/js/474.92799cc8.chunk.js": "/goit-react-hw-08-phonebook/static/js/474.92799cc8.chunk.js",
+    "static/js/623.5846cf7d.chunk.js": "/goit-react-hw-08-phonebook/static/js/623.5846cf7d.chunk.js",
+    "static/media/Fondo.jpg": "/goit-react-hw-08-phonebook/static/media/Fondo.f9688735493ff92880a9.jpg",
+    "static/media/perfil-del-usuario.png": "/goit-react-hw-08-phonebook/static/media/perfil-del-usuario.e0ae1fe4e40442764bab.png",
+    "static/media/Registro.png": "/goit-react-hw-08-phonebook/static/media/Registro.c1dd7475459f8b90d719.png",
+    "static/media/telefono.png": "/goit-react-hw-08-phonebook/static/media/telefono.2b5761660e8a13ad21d2.png",
+    "static/media/Icono-Libreta.png": "/goit-react-hw-08-phonebook/static/media/Icono-Libreta.d25dc5dfe544cc7758f9.png",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.3f8e10ce.css.map": "/goit-react-hw-08-phonebook/static/css/main.3f8e10ce.css.map",
+    "main.78f68e4e.js.map": "/goit-react-hw-08-phonebook/static/js/main.78f68e4e.js.map",
+    "421.8542b4dd.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/421.8542b4dd.chunk.js.map",
+    "474.92799cc8.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/474.92799cc8.chunk.js.map",
+    "623.5846cf7d.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/623.5846cf7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f8e10ce.css",
+    "static/js/main.78f68e4e.js"
+  ]
+}
