@@ -18,6 +18,8 @@ const Contacts = () => {
 
   return (
     <div>
+      {isLoading && <p>Loading...</p>}
+      {error && <p>Error: {error}</p>}
       <Title>Phonebook 📲</Title> {/* Título de la lista de contactos */}
       <ContactForm /> {/* Renderiza el componente ContactForm para agregar nuevos contactos */}
       <Filter /> {/* Renderiza el componente Filter para filtrar los contactos */}

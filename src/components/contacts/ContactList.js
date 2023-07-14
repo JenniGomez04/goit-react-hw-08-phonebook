@@ -1,7 +1,7 @@
 import { useSelector, useDispatch } from 'react-redux'; // Importa los hooks useSelector y useDispatch de 'react-redux'
 import { deleteContactsThunk } from 'redux/contacts/operationsContacts'; // Importa la operación deleteContactsThunk desde 'redux/contacts/operationsContacts'
 import { selectContacts, selectContactsFilter } from '../../redux/contacts/selectorsContacts'; // Importa los selectores selectContacts y selectContactsFilter desde '../../redux/contacts/selectorsContacts'
-import { ContactsUl, ContactLi, ContactText, ContactDelete } from './ContactList.styled'; // Importa los componentes ContactsList, ContactItem, ContactIcon, ContactText y ContactDelete desde './ContactList.styles';
+import { ContactLi, ContactText, ContactDelete } from './ContactList.styled'; // Importa los componentes ContactsList, ContactItem, ContactIcon, ContactText y ContactDelete desde './ContactList.styles';
 
 export function ContactList() {
   const contacts = useSelector(selectContacts); // Obtiene los contactos del estado utilizando el selector selectContacts
